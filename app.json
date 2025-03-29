@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "trabalho-pam2",
-    "slug": "trabalho-pam2",
+    "name": "ViaCEP",
+    "slug": "ViaCEP",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
